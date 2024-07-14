@@ -1,0 +1,9 @@
+type
+benign        428103
+defacement     96457
+phishing       94111
+malware        32520
+
+1.png
+
+test_size=0.2
